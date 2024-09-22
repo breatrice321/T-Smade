@@ -1,0 +1,9 @@
+spectre-v1
+90.80%
+939.54
+evasive-spectre-nop
+92.73%
+122.97
+evasive-spectre-memory
+98.87%
+408.48
