@@ -16,13 +16,13 @@ event6 need to run a command (below) in terminal before execute event6.py and us
 
 Cite it
 ------------
-@Article{electronics13204090,
-AUTHOR = {Jiao, Jiajia and Wen, Ran and Li, Yulian},
-TITLE = {T-Smade: A Two-Stage Smart Detector for Evasive Spectre Attacks under Various Workloads},
-JOURNAL = {Electronics},
-VOLUME = {13},
-YEAR = {2024},
-NUMBER = {20},
-ARTICLE-NUMBER = {4090},
-ISSN = {2079-9292},
-}
+@Article{electronics13204090, <br>
+AUTHOR = {Jiao, Jiajia and Wen, Ran and Li, Yulian}, <br>
+TITLE = {T-Smade: A Two-Stage Smart Detector for Evasive Spectre Attacks under Various Workloads}, <br>
+JOURNAL = {Electronics}, <br>
+VOLUME = {13}, <br>
+YEAR = {2024}, <br>
+NUMBER = {20}, <br>
+ARTICLE-NUMBER = {4090}, <br>
+ISSN = {2079-9292}, <br>
+} <br>
